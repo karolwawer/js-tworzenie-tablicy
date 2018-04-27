@@ -1,0 +1,1 @@
+var torba = ['porttfel', 'telefon', 'dokumenty', 'klucze'];
