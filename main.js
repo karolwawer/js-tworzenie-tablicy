@@ -1,1 +1,1 @@
-var torba = ['porttfel', 'telefon', 'dokumenty', 'klucze'];
+var torba = [11, 22, 31, 41];
